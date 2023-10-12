@@ -19,3 +19,4 @@ types-PyYAML==6.0.12.12
 typing==3.7.4.3
 typing_extensions==4.8.0
 urllib3==2.0.6
+pylint==3.0.1

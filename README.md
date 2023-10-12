@@ -8,6 +8,8 @@ pip install -e .
 cd social-ops
 pytest
 mypy socint/
+## Pylint
+./run_pylint.sh
 # Run
 ## As a module
 python -m socint --query "hamas" --source ventric
