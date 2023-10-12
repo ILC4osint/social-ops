@@ -1,3 +1,4 @@
+# pylint: disable=locally-disabled, multiple-statements, fixme, line-too-long,too-many-lines
 RESPONSE ={
   "data": {
     "search_query": {

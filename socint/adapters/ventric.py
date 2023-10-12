@@ -1,3 +1,4 @@
+# pylint: disable=unsupported-binary-operation,unused-argument,missing-timeout,broad-exception-raised,too-few-public-methods,wrong-import-order
 import os
 
 import requests
